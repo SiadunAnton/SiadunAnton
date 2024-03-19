@@ -19,4 +19,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SiadunAnton&theme=radical)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SiadunAnton&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![codewars](https://www.codewars.com/users/SiadunAnton/badges/large)](https://www.codewars.com/users/SiadunAnton)
